@@ -1,4 +1,4 @@
 # Second Project
-My second project learning Git. Hello Everonye.
+My second project learning Git. Hello Everyone.
 
 
